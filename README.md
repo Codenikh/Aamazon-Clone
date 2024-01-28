@@ -8,14 +8,14 @@
    3. JAVASCRIPT
 
 ## Author :
-   Akash Deep
+   Nikhil
    <br>
-   Email: ad3500476@gmail.com
+   Email: codenikh@gmail.com
    <br>
-   LinkedIn : https://www.linkedin.com/in/akashdeep023/
+   LinkedIn : https://www.linkedin.com/in/nikkhhiltiwari/
 
 ## Website Link :
-   url : https://akashdeep023.github.io/Amazon-Clone/
+   url : https://github.com/codenikh-frontend/Aamazon-Clone
 
 ## Ex- Image
 ### Home Page
@@ -30,4 +30,3 @@
 ![Screenshot 2023-12-19 221136](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/2ee9323f-d01a-43af-b522-45afa1be6b06)
 
 
-### Thanks for visit... 😊😊😊
